@@ -1,0 +1,13 @@
+each app can only return one element in react, so we can wrap up the elements into DIV
+
+if u are having a bootstrap link then paste it in the public index.html
+
+props - values passed in the components
+
+
+states
+const [count,setCount] = useState();
+name any variable and then the next value should be set"variable_name"
+
+always import the bootsstrap css first them import ur own css file
+
