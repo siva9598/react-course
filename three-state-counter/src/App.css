@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: aliceblue;
+  background: #000000;
+}
+
+button {
+  background: #4DD637;
+  color: white;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: medium;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 15px;
+  border-width: 5px;
+  border-color: #4DD637;
+}
